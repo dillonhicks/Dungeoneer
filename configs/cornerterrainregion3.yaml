@@ -1,0 +1,5 @@
+name: Corner Terrain (R3)
+image: MrBordello_Strategy_Game_Tileset_34.svg
+type : terrain
+doc : |
+    Terrain that consists of an arc from pi to 3pi/2.

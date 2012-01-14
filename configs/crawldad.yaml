@@ -1,0 +1,7 @@
+name : Crawldad
+level: 1
+hp: 200
+image: crawldad.svg
+type : creature
+doc : |
+    Snip, Snip, here comes the vasectomy!

@@ -1,0 +1,9 @@
+name: Giant (Lazer Eyes)
+level: 5
+hp: 335
+image: giant-lazer-eyes.svg
+type : creature
+doc : |
+    A ginormous amount of pain.
+
+
