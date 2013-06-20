@@ -1,0 +1,5 @@
+name: Horizontal Terrain
+image: MrBordello_Strategy_Game_Tileset_32.svg
+type : terrain
+doc : |
+    Terrain that is Vertical

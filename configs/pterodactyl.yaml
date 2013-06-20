@@ -1,0 +1,7 @@
+name: Pterodactyl
+level: 10
+hp: 2344
+image: pterodactyl.svg
+type : creature
+doc : |
+    Its a badass muthafucking Pterodactyl!

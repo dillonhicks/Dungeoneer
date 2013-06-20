@@ -1,0 +1,6 @@
+name: Bear
+image: grizly-bear.svg
+type : creature
+doc : |
+    He REALLY doesn't like you.
+

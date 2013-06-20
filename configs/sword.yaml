@@ -1,0 +1,7 @@
+name : Sword
+level : 4
+gp : 234
+image : sword.svg
+type : object
+doc : |
+    It'll cut you real good.

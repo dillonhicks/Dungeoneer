@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="543.72998"
+   height="414.09"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.45+devel"
+   sodipodi:docbase="/home/tobi"
+   sodipodi:docname="MrBordello_GnuPG_Logo_(not).svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient2201">
+      <stop
+         id="stop2203"
+         offset="0"
+         style="stop-color:#d5d5d5;stop-opacity:1;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.22727273"
+         id="stop2207" />
+      <stop
+         id="stop3082"
+         offset="0.87706614"
+         style="stop-color:#d1d1d1;stop-opacity:1;" />
+      <stop
+         id="stop2205"
+         offset="1"
+         style="stop-color:#afafaf;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2191">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop2193" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop2195" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2201"
+       id="linearGradient2199"
+       x1="320.69421"
+       y1="285.6604"
+       x2="253.32147"
+       y2="591.70483"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.93617,296.44,-189.045)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.74213993"
+     inkscape:cx="372.04724"
+     inkscape:cy="676.89137"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:window-width="1272"
+     inkscape:window-height="945"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     showgrid="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-8.0847263,-198.7697)">
+    <path
+       style="fill:#50789a;fill-opacity:1"
+       d="M 174.93627,264.99909 C 119.76093,266.04862 75.30075,311.16823 75.30075,366.59305 C 75.30075,397.73235 89.32729,425.61582 111.40944,444.25735 C 64.14079,468.31613 31.72551,517.63478 31.72551,574.49345 C 31.72551,655.01002 96.77756,720.33586 176.8947,720.33586 C 257.01182,720.33586 322.00268,655.01002 322.0027,574.49345 C 322.0027,517.64398 289.57496,468.38162 242.31876,444.31855 C 264.43385,425.6769 278.48866,397.75922 278.48866,366.59305 C 278.48866,310.51101 232.97672,264.99909 176.8947,264.99909 C 176.23749,264.99909 175.59052,264.98666 174.93627,264.99909 z"
+       id="path5724" />
+    <path
+       style="opacity:1;fill:#75a5ce;fill-opacity:1;stroke:none;stroke-opacity:1"
+       d="M 380.75677,264.99909 C 325.58143,266.04862 281.12125,311.16823 281.12125,366.59305 C 281.12125,397.73235 295.1478,425.61582 317.22995,444.25735 C 269.96129,468.31613 237.54601,517.63478 237.54601,574.49345 C 237.54601,655.01002 302.59807,720.33586 382.71521,720.33586 C 462.83233,720.33586 527.82318,655.01002 527.8232,574.49345 C 527.8232,517.64398 495.39547,468.38162 448.13927,444.31855 C 470.25436,425.6769 484.30916,397.75922 484.30916,366.59305 C 484.30916,310.51101 438.79723,264.99909 382.71521,264.99909 C 382.05799,264.99909 381.41102,264.98666 380.75677,264.99909 z"
+       id="path4841" />
+    <g
+       id="g15367"
+       transform="matrix(1.958438,0,0,1.958438,-298.1531,-636.7873)">
+      <rect
+         y="501.55136"
+         x="322.04163"
+         height="39.202511"
+         width="51.203281"
+         id="rect3957"
+         style="fill:#ffffff;fill-opacity:1" />
+      <path
+         id="path3959"
+         d="M 346.76768,478.38445 C 332.96221,478.36257 321.62483,492.97512 324.92881,506.34637 C 327.37439,519.69799 343.04961,528.50351 355.71104,523.32391 C 367.88489,519.1432 374.54261,503.57941 368.7921,491.98504 C 365.02041,483.59379 356.01361,477.89283 346.76768,478.38445 z M 347.78819,487.19793 C 357.65875,486.87422 365.21696,498.6337 360.79503,507.40398 C 357.0897,516.04391 344.84315,518.80524 338.02842,512.24676 C 331.21201,506.27943 331.89811,494.07979 339.95811,489.44305 C 342.29424,487.94594 345.03333,487.17534 347.78819,487.19793 z"
+         style="fill:#ffffff;fill-opacity:1" />
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1"
+       id="rect4845"
+       width="754.72717"
+       height="411.66937"
+       x="-65.915276"
+       y="569.19299" />
+    <text
+       xml:space="preserve"
+       style="font-size:70.50376129px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans"
+       x="98.974854"
+       y="548.08179"
+       id="text1307"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan15361"
+         x="98.974854"
+         y="548.08179"><tspan
+   style="font-size:70.50376129px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-opacity:1;font-family:Bitstream Vera Sans"
+   id="tspan15363">G</tspan> N U <tspan
+   style="font-size:70.50376129px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-opacity:1;font-family:Bitstream Vera Sans"
+   id="tspan15365">P G</tspan></tspan></text>
+    <path
+       style="fill:#ffffff;fill-opacity:1"
+       d="M 137.28718,315.2687 C 110.25003,315.22585 88.04648,343.84362 94.51711,370.03038 C 99.30663,396.1787 130.00557,413.42376 154.80219,403.27984 C 178.64392,395.09218 191.68265,364.61146 180.42064,341.90461 C 173.03402,325.47087 155.39476,314.3059 137.28718,315.2687 z M 139.28579,332.52936 C 158.61666,331.89539 173.41895,354.9256 164.75887,372.10165 C 157.50221,389.02241 133.51811,394.4303 120.17188,381.58593 C 106.82237,369.89929 108.16605,346.00705 123.95106,336.92628 C 128.52623,333.99429 133.89056,332.48512 139.28579,332.52936 z"
+       id="path10973" />
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-opacity:1"
+       id="rect17149"
+       width="528.16064"
+       height="403.1962"
+       x="14.807861"
+       y="207.2697"
+       inkscape:export-filename="/home/tobi/gnupglogo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="rect11848"
+       width="87.083908"
+       height="23.750154"
+       x="173.25923"
+       y="350.16364" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="rect12723"
+       width="19.444571"
+       height="39.583595"
+       x="240.89853"
+       y="365.99719" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1"
+       id="rect12725"
+       width="18.472342"
+       height="33.333557"
+       x="216.67661"
+       y="365.99719" />
+  </g>
+</svg>

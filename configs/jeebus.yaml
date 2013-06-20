@@ -1,0 +1,7 @@
+name: Jeebus
+level: 30
+hp: .inf
+image: jeebus.svg
+type : creature
+doc : |
+    He will not save you.... Ever.
